@@ -1,3 +1,4 @@
+**Still a work-in-progress.*
 # Cycle-Accurate Pipeline Simulator
 
 This project is a lightweight, cycle-accurate simulator for a generic 5-stage processor pipeline, written in C++. It is designed as a foundational framework for computer architecture research and education, allowing for the simulation of instruction execution on a cycle-by-cycle basis.
